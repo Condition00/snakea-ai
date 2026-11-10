@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from Ipython import display
+from IPython import display
 
 plt.ion()
 
